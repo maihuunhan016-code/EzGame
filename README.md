@@ -1,0 +1,2 @@
+# EzGame
+Game dễ xơi
